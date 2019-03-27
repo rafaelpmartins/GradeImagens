@@ -16,6 +16,8 @@
         android:numColumns="2"
         android:verticalSpacing="1dp">
 
+        <!--Teste de atualização de git-->
+
     </GridView>
 
 </LinearLayout>
